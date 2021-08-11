@@ -1,2 +1,2 @@
-# bouncy-ball
-game
+# boncy-ball
+game project
